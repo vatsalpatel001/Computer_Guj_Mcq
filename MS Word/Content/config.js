@@ -13,6 +13,22 @@ let Slide_master_obj=[
 	num:3,
 	nos:1,
 	title:"F9 Functionality"
+},{
+	num:4,
+	nos:1,
+	title:"Symbols"
+},{
+	num:5,
+	nos:1,
+	title:"Formating Letter"
+},{
+	num:6,
+	nos:1,
+	title:"F7 Functionality"
+},{
+	num:7,
+	nos:1,
+	title:"Indent"
 }
 
 ]
